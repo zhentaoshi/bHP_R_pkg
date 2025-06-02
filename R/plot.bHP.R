@@ -116,7 +116,7 @@
 plot.bHP <-
   function(x,
            plot_type = "dynamic",
-           interval_t = 0.3,
+           interval_t = 0.4,
            ylab = "",
            col_raw = "#2D5375",
            col_trend_h = "#FBB545",
